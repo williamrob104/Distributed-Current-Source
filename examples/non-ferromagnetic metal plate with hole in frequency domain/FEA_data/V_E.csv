@@ -1,0 +1,10 @@
+% Model,FEA.mph
+% Version,COMSOL 6.0.0.318
+% Date,"Jul 31 2022, 09:02"
+% Dimension,3
+% Nodes,1
+% Expressions,1
+% Description,Coil voltage
+% Length unit,m
+% x,y,z,mf.VCoil_1 (V) @ freq=2000, Switch 1=Titanium beta-21S
+0,0,0.003999999999999999,0.31970480633309983+0.3833437989663103i

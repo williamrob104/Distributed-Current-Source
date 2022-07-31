@@ -1,0 +1,10 @@
+% Model,FEA.mph
+% Version,COMSOL 6.0.0.318
+% Date,"Jul 31 2022, 09:33"
+% Dimension,3
+% Nodes,1
+% Expressions,1
+% Description,Coil voltage
+% Length unit,m
+% x,y,z,mf.VCoil_1 (V) @ freq=2E6, Switch 1=Liver
+0,0,0,0.003207601254802674+3.7616440547287873i

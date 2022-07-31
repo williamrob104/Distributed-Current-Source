@@ -31,7 +31,7 @@ Distributed current source (DCS) is a method for modeling the dynamic responses 
   <tr>
     <td>Ferromagnetic</td>
     <td>◯</td>
-    <td>not FEA verified</td>
+    <td>◯</td>
     <td>◯</td>
     <td>not FEA verified</td>
   </tr>
