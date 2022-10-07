@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Distributed current source (DCS) is a method for modeling the dynamic responses of eddy currents induced in objects. Both conductors and dielectrics as well as ferromagnetic and non-ferromagnetic materials are considered. Unlike conventional numerical methods such as finite element analysis, DCS accounts for eddy currents and magnetization by means of volume and surface current density sources, which gives closed-form solutions to eddy currents, magnetic flux density and electromotive force.
+Distributed current source (DCS) is a method for modeling the dynamic responses of eddy currents induced in objects. Material properties including electrical conductivity, permittivity, and magnetic permeability are considered. Unlike conventional numerical methods such as finite element analysis, DCS accounts for eddy currents and magnetization by means of volume and surface current sources, which gives closed-form solutions to eddy currents, magnetic flux density and electromotive force.
 
 ### Analysis types
 
@@ -23,24 +23,24 @@ Distributed current source (DCS) is a method for modeling the dynamic responses 
 <tbody>
   <tr>
     <td>Non-ferromagnetic</td>
-    <td>◯</td>
-    <td>◯</td>
-    <td>◯</td>
-    <td>◯</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Ferromagnetic</td>
-    <td>◯</td>
-    <td>◯</td>
-    <td>◯</td>
-    <td>not FEA verified</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>⚠️ not verified</td>
   </tr>
   <tr>
     <td>Ferroeletric</td>
-    <td>◯</td>
-    <td>◯</td>
-    <td>not implemented</td>
-    <td>not implemented</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
   </tr>
 </tbody>
 </table>
@@ -49,6 +49,7 @@ Distributed current source (DCS) is a method for modeling the dynamic responses 
 
 - Multiple coils for excitation and sensing purposes
 - Current or voltage excitation in both frequency and time domain
+- Allow different conductivity for elements
 
 ## Project Structure
 
