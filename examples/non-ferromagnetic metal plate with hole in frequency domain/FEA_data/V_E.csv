@@ -1,10 +1,10 @@
 % Model,FEA.mph
 % Version,COMSOL 6.0.0.318
-% Date,"Oct 5 2022, 00:14"
+% Date,"Oct 27 2022, 08:27"
 % Dimension,3
 % Nodes,1
 % Expressions,1
 % Description,Coil voltage
 % Length unit,m
 % x,y,z,mf.VCoil_1 (V) @ freq=1000, Material Switch 1=Aluminum
-0,0,0.004000000000000001,0.3209928867906477+0.18785577213123233i
+0,3.469446951953614E-18,0.003999999999999998,0.32127815074040544+0.1893441714162935i
