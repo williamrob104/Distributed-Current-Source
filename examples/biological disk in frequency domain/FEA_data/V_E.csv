@@ -1,10 +1,10 @@
 % Model,FEA.mph
 % Version,COMSOL 6.0.0.318
-% Date,"Oct 27 2022, 12:13"
+% Date,"Oct 30 2022, 18:54"
 % Dimension,2
 % Nodes,1
 % Expressions,6
 % Description,"Coil voltage, Coil voltage, Coil voltage"
 % Length unit,m
-% r,z,mf.VCoil_1 (V) @ freq=20000, Switch 1=Liver,mf.VCoil_2 (V) @ freq=20000, Switch 1=Liver,mf.VCoil_3 (V) @ freq=20000, Switch 1=Liver,mf.VCoil_1 (V) @ freq=20000, Switch 1=Air,mf.VCoil_2 (V) @ freq=20000, Switch 1=Air,mf.VCoil_3 (V) @ freq=20000, Switch 1=Air
-0.05000000000000001,0,0.0031836736657604643+0.03860488946290485i,5.698513254240109E-9+0.26258886839307244i,2.017401274197782E-9+0.2625868718466005i,0.003183673469387755+0.03860488939633285i,0.26258886646123003i,0.2625868711626853i
+% r,z,mf.VCoil_1 (V) @ freq=50000, Switch 1=Liver,mf.VCoil_2 (V) @ freq=50000, Switch 1=Liver,mf.VCoil_3 (V) @ freq=50000, Switch 1=Liver,mf.VCoil_1 (V) @ freq=50000, Switch 1=Air,mf.VCoil_2 (V) @ freq=50000, Switch 1=Air,mf.VCoil_3 (V) @ freq=50000, Switch 1=Air
+0.05000000000000001,0,0.0031836752357282325+0.0965122540971519i,4.994121148817404E-8+0.6564721947257738i,1.8531350095161324E-8+0.656466661511226i,0.003183673469387755+0.09651225336819086i,0.6564721741152444i,0.6564666538634204i
