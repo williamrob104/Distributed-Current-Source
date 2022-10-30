@@ -1,10 +1,10 @@
 % Model,FEA.mph
 % Version,COMSOL 6.0.0.318
-% Date,"Jul 31 2022, 09:22"
+% Date,"Oct 30 2022, 11:59"
 % Dimension,3
 % Nodes,1
 % Expressions,1
 % Description,Coil voltage
 % Length unit,m
 % x,y,z,mf.VCoil_1 (V) @ freq=500, Material Switch 1=Stainless Steel
-0,0,0,0.31885157094548267+0.10659347432664079i
+0,0,0,0.3188580755177148+0.10660432758616187i
