@@ -58,3 +58,8 @@ The project is written in MATLAB, and verified using the COMSOL finite element a
  `DCS_functions` directory contains the core functionalities and detailed formulation of DCS.
 
  `examples` directory contains examples of DCS applied to different problems as well as finite element analysis for comparison.
+
+ ## References
+
+[1]	B. J. Hao, K. M. Lee, and K. Bai, "Distributed current source modeling method for 3D eddy current problem in magnetic conductor with discrete state-space J-phi formulation," J. Comput. Phys., vol. 401, Jan 15. 2020, doi: 10.1016/j.jcp.2019.109027.
+
