@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Distributed current source (DCS) is a method for modeling the dynamic responses of eddy currents induced in objects. Material properties including electrical conductivity, permittivity, and magnetic permeability are considered. Unlike conventional numerical methods such as finite element method, DCS accounts for eddy currents and magnetization by means of volume and surface current sources, which gives closed-form solutions to eddy currents, magnetic flux density and electromotive force.
+Distributed Current Source (DCS) is a method for modeling the dynamic responses of eddy currents induced in objects. Material properties including electrical conductivity, permittivity, and magnetic permeability are considered. Unlike conventional numerical methods such as finite element method, DCS accounts for eddy currents and magnetization by means of volume and surface current sources, which gives closed-form solutions to eddy currents, magnetic flux density and electromotive force.
 
 ### Analysis types
 
@@ -61,5 +61,5 @@ The project is written in MATLAB, and verified using the COMSOL finite element a
 
  ## References
 
-[1]	B. J. Hao, K. M. Lee, and K. Bai, "Distributed current source modeling method for 3D eddy current problem in magnetic conductor with discrete state-space J-phi formulation," J. Comput. Phys., vol. 401, Jan 15. 2020, doi: 10.1016/j.jcp.2019.109027.
+[1]	B. J. Hao, K. M. Lee, and K. Bai, "Distributed current source modeling method for 3D eddy current problem in magnetic conductor with discrete state-space J-φ formulation," Journal of Computational Physics, vol. 401, Jan. 2020, doi: [10.1016/j.jcp.2019.109027](https://doi.org/10.1016/j.jcp.2019.109027).
 
